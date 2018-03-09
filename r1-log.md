@@ -9,3 +9,6 @@ Started back end development on music website.
 
 ### R1D2
 University website pages add and some UI changes made to existing ones.
+
+### R1D3
+Continued work on University website major progress made on interface and mostly the home page.

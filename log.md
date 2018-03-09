@@ -19,3 +19,7 @@
 ### Day 2: March 7, 2018, Wednesday
 **Today's Progress**: I've worked on my second project, a university website, created courses page, and made some UI changes to already existing pages.
 **Thoughts** My CSS and Page layout skills are being put to the test.
+
+### Day 3: March 9, 2018, Friday
+**Today's Progress**: Continued working on the university website home page 80% complete.
+**Thoughts** I almost stopped working on this project due to having a few rough edges and a commmon cold.
