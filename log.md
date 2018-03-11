@@ -23,3 +23,11 @@
 ### Day 3: March 9, 2018, Friday
 **Today's Progress**: Continued working on the university website home page 80% complete.
 **Thoughts** I almost stopped working on this project due to having a few rough edges and a commmon cold.
+
+### Day 4: March 10, 2018, Saturday
+**Today's Progress**: Worked on about page and images upload page.
+**Thoughts** Bootstrap grid system can trip you up if you do not plan ahead how your content is going to be displayed.
+
+### Day 5: March 11, 2018, Sunday
+**Today's Progress**: Continued working on pages from the previous day.
+**Thoughts** I have gained a good grasp on page layout and bootstrap grid by coding in these past few days.
