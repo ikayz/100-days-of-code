@@ -31,3 +31,7 @@
 ### Day 5: March 11, 2018, Sunday
 **Today's Progress**: Continued working on pages from the previous day.
 **Thoughts** I have gained a good grasp on page layout and bootstrap grid by coding in these past few days.
+
+### Day 6: March 12, 2018, Monday
+**Today's Progress**: Progress made on university website added some tables and made changes to look and feel.
+**Thoughts** With this phase of development my coding skills have significantly improved. Links will be available soon.

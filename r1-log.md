@@ -18,3 +18,6 @@ Worked with Bootstrap grid system and learnt a new way of manipulating the grid.
 
 ### R1D5
 Continued working on pages from the previous day, adding images, modals and changing content.
+
+### R1D6
+Significant progress made on university website, added tables and figured out how to us multiple rows without collisions.
