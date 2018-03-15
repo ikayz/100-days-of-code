@@ -35,3 +35,11 @@
 ### Day 6: March 12, 2018, Monday
 **Today's Progress**: Progress made on university website added some tables and made changes to look and feel.
 **Thoughts** With this phase of development my coding skills have significantly improved. Links will be available soon.
+
+### Day 7: March 13, 2018, Tuesday
+**Today's Progress**: Added data to database but script is inserting null values in database.
+**Thoughts** Data validation is an important part of development at this stage.
+
+### Day 8: March 14, 2018, Wednesday
+**Today's Progress**: Changed some parts of the home page as per clients request on the web site dummy.
+**Thoughts** Web development can be quite challenging when you are a solo developer.

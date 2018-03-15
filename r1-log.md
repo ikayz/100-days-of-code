@@ -21,3 +21,9 @@ Continued working on pages from the previous day, adding images, modals and chan
 
 ### R1D6
 Significant progress made on university website, added tables and figured out how to us multiple rows without collisions.
+
+### R1D7
+Data validation is an important part of development at this stage.
+
+### R1D8
+Web development can be quite challenging when you are a solo developer.
