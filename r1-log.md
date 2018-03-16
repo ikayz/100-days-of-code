@@ -27,3 +27,6 @@ Data validation is an important part of development at this stage.
 
 ### R1D8
 Web development can be quite challenging when you are a solo developer.
+
+### R1D8
+Significant progress made on validation script for prevent blank entries in dabatabase.

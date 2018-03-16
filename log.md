@@ -43,3 +43,7 @@
 ### Day 8: March 14, 2018, Wednesday
 **Today's Progress**: Changed some parts of the home page as per clients request on the web site dummy.
 **Thoughts** Web development can be quite challenging when you are a solo developer.
+
+### Day 9: March 16, 2018, Friday
+**Today's Progress**: Significant progress made on validation script for prevent blank entries in dabatabase.
+**Thoughts** I need to work on my PHP skills more, I also need to sharpen up in other languages.
