@@ -30,3 +30,9 @@ Web development can be quite challenging when you are a solo developer.
 
 ### R1D8
 Significant progress made on validation script for prevent blank entries in dabatabase.
+
+### R1D8
+Significant progress made on validation script for prevent made some changes.
+
+### R1D10
+Started working on open source project from github

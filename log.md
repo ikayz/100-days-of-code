@@ -47,3 +47,8 @@
 ### Day 9: March 16, 2018, Friday
 **Today's Progress**: Significant progress made on validation script for prevent blank entries in dabatabase.
 **Thoughts** I need to work on my PHP skills more, I also need to sharpen up in other languages.
+
+### Day 10: March 18, 2018, Sunday
+**Today's Progress**: Started working on open source project from github
+**Thoughts** Coding without a framework is no walk in the park.
+
