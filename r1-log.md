@@ -36,3 +36,6 @@ Significant progress made on validation script for prevent made some changes.
 
 ### R1D10
 Started working on open source project from github
+
+### R1D11
+Used flex on for the first time to align page elements without using a framework.

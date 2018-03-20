@@ -52,3 +52,7 @@
 **Today's Progress**: Started working on open source project from github
 **Thoughts** Coding without a framework is no walk in the park.
 
+### Day 11: March 20, 2018, Tuesday
+**Today's Progress**: Used flex on for the first time to align page elements without using a framework.
+**Thoughts** I was amazed of what CSS3 can do, I had become too used to Bootstrap. Time for a dive in the roots.
+
