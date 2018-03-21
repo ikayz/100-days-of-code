@@ -56,3 +56,7 @@
 **Today's Progress**: Used flex on for the first time to align page elements without using a framework.
 **Thoughts** I was amazed of what CSS3 can do, I had become too used to Bootstrap. Time for a dive in the roots.
 
+### Day 12: March 21, 2018, Wednesday
+**Today's Progress**: Continued work on open source suing pure CSS and it was a challenge testing my skills.
+**Thoughts** My skills in pure CSS have surely improved from last time. Challenges faced in some areas of CSS.
+

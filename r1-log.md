@@ -39,3 +39,6 @@ Started working on open source project from github
 
 ### R1D11
 Used flex on for the first time to align page elements without using a framework.
+
+### R1D12
+Continued work on open source suing pure CSS and it was a challenge testing my skills.
