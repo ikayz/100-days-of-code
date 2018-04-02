@@ -60,3 +60,29 @@
 **Today's Progress**: Continued work on open source suing pure CSS and it was a challenge testing my skills.
 **Thoughts** My skills in pure CSS have surely improved from last time. Challenges faced in some areas of CSS.
 
+### Day 13: March 23, 2018, Friday
+**Today's Progress**: Worked on open source project, styling and making minor changes.
+**Thoughts** HTML and CSS have definitly improved.
+
+### Day 14: March 24, 2018, Saturday
+**Today's Progress**: Was introduced to GraphQL with Spotify shopping.
+**Thoughts** The GraphQL is an interesting API to work with and makes it easy when querying a lot of data.
+
+### Day 15: March 25, 2018, Sunday
+**Today's Progress**: Started working on an open source html form.
+**Thoughts** Designed and developed an html form using pure html and css. It was a good challenge.
+
+### Day 16: March 27, 2018, Tuesday
+**Today's Progress**: Back to working on university website, creating a dashboard, login form and log out script.
+**Thoughts** It would have been quite more productive with a little push.
+
+### Day 17: March 29, 2018, Thursday
+**Today's Progress**: Changed parts of the home page and moved some content to match user request.
+**Thoughts** Changing components and trying a different approach in UI was awesome.
+
+### Day 18: March 31, 2018, Saturday
+**Today's Progress**: Made chandes to image upload page and added a side menu for admin console.
+**Thoughts** I need to code more and work on my design add scripting skills.
+
+
+

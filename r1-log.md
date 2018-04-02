@@ -42,3 +42,21 @@ Used flex on for the first time to align page elements without using a framework
 
 ### R1D12
 Continued work on open source suing pure CSS and it was a challenge testing my skills.
+
+### R1D13
+Worked on open source project, styling and making minor changes.
+
+### R1D14
+Was introduced to GraphQL with Spotify shopping.
+
+### R1D15
+Started working on an open source html form.
+
+### R1D16
+Back to working on university website, creating a dashboard, login form and log out script.
+
+### R1D17
+Changed parts of the home page and moved some content to match user request.
+
+### R1D18
+Made chandes to image upload page and added a side menu for admin console.
