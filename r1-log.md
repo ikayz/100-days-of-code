@@ -60,3 +60,9 @@ Changed parts of the home page and moved some content to match user request.
 
 ### R1D18
 Made chandes to image upload page and added a side menu for admin console.
+
+### R1D19
+Started work on a JavaScript guess game.
+
+### R1D20
+Worked with SQL Server 2017 and started another bootstrap website.

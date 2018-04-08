@@ -84,5 +84,34 @@
 **Today's Progress**: Made chandes to image upload page and added a side menu for admin console.
 **Thoughts** I need to code more and work on my design add scripting skills.
 
+### Day 19: April 2, 2018, Monday
+**Today's Progress**: Started work on a JavaScript guess game.
+**Thoughts** JavaScript is great, it can be used in various ways depending on your creativity.
+
+### Day 20: April 3, 2018, Tuesday
+**Today's Progress**: Worked with SQL Server 2017 and started another bootstrap website
+**Thoughts** Working with SQL Server 2017 has shown me how important the RDBMS is.
+
+### Day 21: April 4, 2018, Wednesday
+**Today's Progress**: Worked on backend PHP and a bit of Frontend CSS + Bootstrap
+**Thoughts** It was good trying out different feels of code.
+
+### Day 22: April 5, 2018, Thursday
+**Today's Progress**: Created more pages for website I'm working on.
+**Thoughts** Was not creative enough to design awesome layouts for today.
+
+### Day 23: April 6, 2018, Friday
+**Today's Progress**: 80% complete of frontend development using Bootstrap.
+**Thoughts** It was a good day and productive, learnt about hidden-xs class
+
+### Day 24: April 8, 2018, Sunday
+**Today's Progress**: Did not do much just touched some python and javascript.
+**Thoughts** Working with SQL Server 2017 has shown me how important the RDBMS is.
+
+
+
+
+
+
 
 
