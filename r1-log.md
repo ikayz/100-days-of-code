@@ -66,3 +66,36 @@ Started work on a JavaScript guess game.
 
 ### R1D20
 Worked with SQL Server 2017 and started another bootstrap website.
+
+### R1D21
+Worked on backend PHP and a bit of Frontend CSS + Bootstrap
+
+### R1D22
+Created more pages for website I'm working on.
+
+### R1D23
+80% complete of frontend development using Bootstrap.
+
+### R1D24
+Did not do much just touched some python and javascript.
+
+### R1D25
+Contact form is complete including send script.
+
+### R1D26
+Made more changes to UI and UX to suit user needs
+
+### R1D27
+Developed more on the backend, troubleshooting scripts.
+
+### R1D28
+Completed development on both frontend and backend, time for deployment.
+
+### R1D29
+Started designs on a new project, wireframing and mockups.
+
+### R1D29
+Worked on HNG 4 Internship challenges.
+
+### R1D29
+Continued working on HNG 4 Internship challenges and pushing repos to github.

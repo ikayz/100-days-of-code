@@ -108,6 +108,40 @@
 **Today's Progress**: Did not do much just touched some python and javascript.
 **Thoughts** Working with SQL Server 2017 has shown me how important the RDBMS is.
 
+### Day 25: April 9, 2018, Monday
+**Today's Progress**: Contact form is complete including send script.
+**Thoughts** My PHP skills are becoming pretty good. Debugging and logical test I need to work on.
+
+### Day 26: April 10, 2018, Tuesday
+**Today's Progress**: Made more changes to UI and UX to suit user needs
+**Thoughts** My skills in UI and UX have significantly improved since the challenge begun.
+
+### Day 27: April 11, 2018, Wednesday
+**Today's Progress**: Developed more on the backend, troubleshooting scripts.
+**Thoughts** I should push more into my scripting skills.
+
+### Day 28: April 12, 2018, Thursday
+**Today's Progress**: Completed development on both frontend and backend, time for deployment.
+**Thoughts** I worked within time frame and managed to get site up and running.
+
+### Day 29: April 13, 2018, Friday
+**Today's Progress**: Started designs on a new project, wireframing and mockups.
+**Thoughts** Taking on a project in an unfamiliar territory is challenging.
+
+### Day 30: April 14, 2018, Saturday
+**Today's Progress**: Worked on HNG 4 Internship challenges.
+**Thoughts** It felt good collaborating with others on projects and challenges.
+
+### Day 31: April 16, 2018, Monday
+**Today's Progress**: Continued working on HNG 4 Internship challenges and pushing repos to github.
+**Thoughts** The challenges and group collaboration are keeping me on my toes.
+
+
+
+
+
+
+
 
 
 
