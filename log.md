@@ -136,6 +136,34 @@
 **Today's Progress**: Continued working on HNG 4 Internship challenges and pushing repos to github.
 **Thoughts** The challenges and group collaboration are keeping me on my toes.
 
+### Day 32: April 17, 2018, Tuesday
+**Today's Progress**: Started designing a web site for a construction company.
+**Thoughts** Working with little to no content is tough.
+
+### Day 33: April 18, 2018, Wednesday
+**Today's Progress**: Work on construction web site is dragging but moving.
+**Thoughts** Motivation to code is not just there today.
+
+### Day 34: April 19, 2018, Thursday
+**Today's Progress**: Designed aand coded 90% of the web site.
+**Thoughts** Pressure mounting deadline is approaching.
+
+### Day 35: April 20, 2018, Friday
+**Today's Progress**: Finished developing web site, ready for review and testing.
+**Thoughts** Worked faster than previous web site. An improvement.
+
+### Day 36: April 21, 2018, Saturday
+**Today's Progress**: Worked with PHP data types and gaining more understanding.
+**Thoughts** I need to keep working on my scripting. Backend and Frontend.
+
+### Day 37: April 23, 2018, Monday
+**Today's Progress**: Tweaked UI and made changes to web site structure.
+**Thoughts** I have greatly improved in UI design and can say I'm now intermediate.
+
+### Day 38: April 24, 2018, Tuesday
+**Today's Progress**: I worked on some backend PHP scripts, started making a PHP bot.
+**Thoughts** Making a bot from scratch is no walk in the park.
+
 
 
 

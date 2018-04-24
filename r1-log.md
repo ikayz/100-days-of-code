@@ -94,8 +94,29 @@ Completed development on both frontend and backend, time for deployment.
 ### R1D29
 Started designs on a new project, wireframing and mockups.
 
-### R1D29
+### R1D30
 Worked on HNG 4 Internship challenges.
 
-### R1D29
+### R1D31
 Continued working on HNG 4 Internship challenges and pushing repos to github.
+
+### R1D32
+Started designing a web site for a construction company.
+
+### R1D33
+Work on construction web site is dragging but moving.
+
+### R1D34
+Designed aand coded 90% of the web site.
+
+### R1D35
+Finished developing web site, ready for review and testing.
+
+### R1D36
+Worked with PHP data types and gaining more understanding.
+
+### R1D37
+Tweaked UI and made changes to web site structure.
+
+### R1D38
+I worked on some backend PHP scripts, started making a PHP bot.
