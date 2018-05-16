@@ -176,67 +176,67 @@
 **Today's Progress**: Finally started learning React JS.
 **Thoughts** React is interesting and has awesome functions.
 
-### Day 39: April 28, 2018, Saturday
+### Day 42: April 28, 2018, Saturday
 **Today's Progress**: Lazyed around work on some web projects.
 **Thoughts** I could have done more but I slacked.
 
-### Day 40: April 30, 2018, Monday
+### Day 43: April 30, 2018, Monday
 **Today's Progress**: Development on Music web site, changes to database mostly.
 **Thoughts** This project is a drag it needs to be completed soon enough.
 
-### Day 41: May 1, 2018, Tuesday
+### Day 44: May 1, 2018, Tuesday
 **Today's Progress**: Alternated between projects, mostly web development.
 **Thoughts** It was quite a  slow day with little to no motivation with code.
 
-### Day 42: May 2, 2018, Wednesday
+### Day 45: May 2, 2018, Wednesday
 **Today's Progress**: Learnt a bit of python and android dev.
 **Thoughts** Python then android development and going back to learning java.
 
-### Day 43: May 3, 2018, Thursday
+### Day 46: May 3, 2018, Thursday
 **Today's Progress**: Started Java for the sake of android.
 **Thoughts** Learning 4 languages at once is quite challenging but exciting.
 
-### Day 44: May 4, 2018, Friday
+### Day 47: May 4, 2018, Friday
 **Today's Progress**: Continued learning Java basics
 **Thoughts** Progress is being shown as from before, IntelliJ Idea is awesome.
 
-### Day 45: May 6, 2018, Saturday
+### Day 48: May 6, 2018, Saturday
 **Today's Progress**: Still on Java
 **Thoughts** Tim Bachulka is quite the Java developer.
 
-### Day 46: May 7, 2018, Monday
+### Day 49: May 7, 2018, Monday
 **Today's Progress**: Java again
 **Thoughts** Pushing so I get the basics as fast as possible of Java
 
-### Day 47: May 8, 2018, Tuesday
+### Day 50: May 8, 2018, Tuesday
 **Today's Progress**: Learning React, declaring variables and ES6.
 **Thoughts** Eve Porcello is a tough react developer glad to be getting the basics from her.
 
-### Day 48: May 9, 2018, Wednesday
+### Day 51: May 9, 2018, Wednesday
 **Today's Progress**: Heroku PHP app deloyment
 **Thoughts** Heroku is a great platform worth paying for.
 
-### Day 49: May 10, 2018, Thursday
+### Day 52: May 10, 2018, Thursday
 **Today's Progress**: More on heroku platform deployment.
 **Thoughts** Heroku supports a number of databases including MySQL.
 
-### Day 50: May 11, 2018, Friday
+### Day 53: May 11, 2018, Friday
 **Today's Progress**: Tried deploying a PHP app to heroku.
 **Thoughts** Need to verify heroku, development has been delayed.
 
-### Day 51: May 12, 2018, Saturday
+### Day 54: May 12, 2018, Saturday
 **Today's Progress**: Datascience tools and technics.
 **Thoughts** I have been introduced to getting started with data science.
 
-### Day 52: May 14, 2018, Monday
+### Day 55: May 14, 2018, Monday
 **Today's Progress**: C# basics, syntax and datatypes
 **Thoughts** Need to have a firm grasp on C# for better .Net development.
 
-### Day 53: May 15, 2018, Tuesday
+### Day 56: May 15, 2018, Tuesday
 **Today's Progress**: University website reworking the functionality and database.
 **Thoughts** Motivation on this project has been lost.
 
-### Day 45: May 6, 2018, Monday
+### Day 57: May 16, 2018, Monday
 **Today's Progress**: Worked on company site and learnt about neural networks.
 **Thoughts** Worked with Neural networks.
 
