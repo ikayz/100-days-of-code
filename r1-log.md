@@ -120,3 +120,60 @@ Tweaked UI and made changes to web site structure.
 
 ### R1D38
 I worked on some backend PHP scripts, started making a PHP bot.
+
+### R1D39
+Resumed work on university web site, made some changes.
+
+### R1D40
+Coded and practiced a few JavaScript functions I learnt.
+
+### R1D41
+Finally started learning React JS.
+
+### R1D42
+Lazyed around work on some web projects.
+
+### R1D43
+Development on Music web site, changes to database mostly.
+
+### R1D44
+Alternated between projects, mostly web development.
+
+### R1D45
+Learnt a bit of python and android dev.
+
+### R1D46
+Started Java for the sake of android.
+
+### R1D47
+Continued learning Java basics
+
+### R1D48
+Still on Java
+
+### R1D49
+Java again
+
+### R1D50
+Learning React, declaring variables and ES6.
+
+### R1D51
+Heroku PHP app deloyment
+
+### R1D52
+More on heroku platform deployment.
+
+### R1D53
+Tried deploying a PHP app to heroku.
+
+### R1D54
+Datascience tools and technics.
+
+### R1D55
+C# basics, syntax and datatypes
+
+### R1D56
+University website reworking the functionality and database.
+
+### R1D57
+Worked on company site and learnt about neural networks.
