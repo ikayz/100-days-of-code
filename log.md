@@ -236,14 +236,77 @@
 **Today's Progress**: University website reworking the functionality and database.
 **Thoughts** Motivation on this project has been lost.
 
-### Day 57: May 16, 2018, Monday
+### Day 57: May 16, 2018, Wednesday
 **Today's Progress**: Worked on company site and learnt about neural networks.
 **Thoughts** Worked with Neural networks.
 
+### Day 58: May 17, 2018, Thursday
+**Today's Progress**: Did some Python development.
+**Thoughts** I have learnt quite a lot from coming this far.
 
+### Day 59: May 18, 2018, Friday
+**Today's Progress**: Continued working with Python.
+**Thoughts** In Python indentation matters for scope.
 
+### Day 60: May 19, 2018, Saturday
+**Today's Progress**: Looked at PHP apps and Wrote some JavaScript.
+**Thoughts** Development may seem tough right now but I'm getting there.
 
+### Day 61: May 21, 2018, Monday
+**Today's Progress**: Worked with more JavaScript, APIs to be specific Firebase.
+**Thoughts** Firebase looks interesting can't wait to work with it.
 
+### Day 62: May 22, 2018, Tuesday
+**Today's Progress**: More JavaScript development, included React.js.
+**Thoughts** I'm loving JavaScript development and my skill hass improved.
+
+### Day 63: May 23, 2018, Wednesday
+**Today's Progress**: Developed a single page web site for a tech company.
+**Thoughts** It was tough getting motivation to start developing the template.
+
+### Day 64: May 24, 2018, Thursday
+**Today's Progress**: Dived into Android applications development.
+**Thoughts** I have basic Java knowledge but it's time for Android apps.
+
+### Day 65: May 25, 2018, Friday
+**Today's Progress**: Java development with IntelliJ Idea.
+**Thoughts** Java development using IntelliJ idea, my skills are getting there.
+
+### Day 66: May 26, 2018, Saturday
+**Today's Progress**: Continued with Android development, layouts.
+**Thoughts** Progress may seem slow but I'm getting there.
+
+### Day 67: May 28, 2018, Monday
+**Today's Progress**: Open Cart store development started.
+**Thoughts** Open Cart is fairly easy to work with and customize, though learning twig.
+
+### Day 68: May 29, 2018, Tuesday
+**Today's Progress**: PHP and MySQL development, horning my skills.
+**Thoughts** Working with PHP and MySQL in 2018.
+
+### Day 69: May 30, 2018, Wednesday
+**Today's Progress**: Dived into JavaScript ES6.
+**Thoughts** Switching between multiple languages and frameworks, flexible developer.
+
+### Day 70: May 31, 2018, Thursday
+**Today's Progress**: Tried location based APIs from what3words and more JavaScript.
+**Thoughts** interesting APIs I came across, can be useful and handy in a location based app.
+
+### Day 71: June 1, 2018, Friday
+**Today's Progress**: Added products in Open Cart store.
+**Thoughts** Open Cart modification was quite hectic but I managed.
+
+### Day 72: June 2, 2018, Saturday
+**Today's Progress**: JavaScript development, Node.Js and some game dev concepts.
+**Thoughts** Node.Js is quite interesting and good for fast mobile apps.
+
+### Day 73: June 3, 2018, Sunday
+**Today's Progress**: C# development in 2018 using latest standards.
+**Thoughts** My skills have to be sharpened.
+
+### Day 74: June 4, 2018, Monday
+**Today's Progress**: C# development, console apps and Open Cart development.
+**Thoughts** All is on the right track with development.
 
 
 

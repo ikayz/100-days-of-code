@@ -177,3 +177,54 @@ University website reworking the functionality and database.
 
 ### R1D57
 Worked on company site and learnt about neural networks.
+
+### R1D58
+Did some Python development.
+
+### R1D59
+Continued working with Python.
+
+### R1D60
+Looked at PHP apps and Wrote some JavaScript.
+
+### R1D61
+Worked with more JavaScript, APIs to be specific Firebase.
+
+### R1D62
+More JavaScript development, included React.js.
+
+### R1D63
+Developed a single page web site for a tech company.
+
+### R1D64
+Dived into Android applications development.
+
+### R1D65
+Java development with IntelliJ Idea.
+
+### R1D66
+Continued with Android development, layouts.
+
+### R1D67
+Open Cart store development started.
+
+### R1D68
+PHP and MySQL development, horning my skills.
+
+### R1D69
+Dived into JavaScript ES6.
+
+### R1D70
+Tried location based APIs from what3words and more JavaScript.
+
+### R1D71
+Added products in Open Cart store.
+
+### R1D72
+JavaScript development, Node.Js and some game dev concepts.
+
+### R1D73
+C# development in 2018 using latest standards.
+
+### R1D74
+C# development, console apps and Open Cart development.
