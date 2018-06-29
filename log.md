@@ -308,6 +308,146 @@
 **Today's Progress**: C# development, console apps and Open Cart development.
 **Thoughts** All is on the right track with development.
 
+### Day 75: June 5, 2018, Tuesday
+**Today's Progress**: Learnt more on C# using var to declare variables.
+**Thoughts** I'm pushing my skills in C# as well as VS Studio 2017
+
+### Day 76: June 6, 2018, Wednesday
+**Today's Progress**: Creating links using JavaScript querySelector method.
+**Thoughts** I totally love JavaScript now.
+
+### Day 77: June 7, 2018, Thursday
+**Today's Progress**: Divided into React.JS learning components.
+**Thoughts** React.JS is a library I should really grasp.
+
+### Day 78: June 8, 2018, Friday
+**Today's Progress**: UWP creating simple apps using VS Studio, looked at Microsoft documentation.
+**Thoughts** Microsoft has some interesting documentation on UWP.
+
+### Day 79: June 9, 2018, Saturday
+**Today's Progress**: Learnt and looked at Facebook JavaScript testing environment Jest.
+**Thoughts** Facebook open source tools are a must see for most developers.
+
+### Day 80: June 11, 2018, Monday
+**Today's Progress**: Open Cart development on the back-end.
+**Thoughts** Open Cart should make their default theme more appealing.
+
+### Day 81: June 12, 2018, Tuesday
+**Today's Progress**: Docker on windows and creating containerised applications.
+**Thoughts** Docker is awesome, better than VMs in my opinion.
+
+### Day 82: June 13, 2018, Wednesday
+**Today's Progress**: Started a GitHub mini.js challenges wih someone from Twitter.
+**Thoughts** Collaborating with someone on a project is a good way to sharpen skills.
+
+### Day 83: June 14, 2018, Thursday
+**Today's Progress**: Worked on Front-end of university website and Open Cart development.
+**Thoughts** So much to do in such short time.
+
+### Day 84: June 15, 2018, Friday
+**Today's Progress**: More development on university site and Open Cart.
+**Thoughts** Progress has been significant over the passed few days.
+
+### Day 85: June 16, 2018, Saturday
+**Today's Progress**: Android development and Open Source contribution to UI www.codeisscience.com
+**Thoughts** Android constraint layout adapts to screens than relative.
+
+### Day 86: June 17, 2018, Sunday
+**Today's Progress**: More development on Android and Open Source project.
+**Thoughts** Learnt about an Open Source platform which you can use to generate free icons www.icomoon.io
+
+### Day 87: June 18, 2018, Monday
+**Today's Progress**: Took it a notch down and worked with generating icons and working with HTML5 SVG
+**Thoughts** HTML5 has a lot of features I have not used yet.
+
+### Day 88: June 19, 2018, Tuesday
+**Today's Progress**: Worked on Facebook page connected to www.sumat-tech.com, React.JS and Node.Js with Express
+**Thoughts** Page integration is proving to be a challenge, Node.Js is awesome.
+
+### Day 89: June 20, 2018, Wednesday
+**Today's Progress**: Went back to React.JS develpoment, working with components and states.
+**Thoughts** React.JS is pushing my brain.
+
+### Day 90: June 21, 2018, Thursday
+**Today's Progress**: Pushing with React.JS development. Coding on props, proptypes and children.
+**Thoughts** I have to get a good grasp of React.
+
+### Day 91: June 22, 2018, Friday
+**Today's Progress**: Open Cart development and UI for www.bantupo.com
+**Thoughts** Open Cart store looking good and UI for Bantupod is progressing.
+
+### Day 92: June 23, 2018, Saturday
+**Today's Progress**: Build day community challenge ideas put in motion, development environment created.
+**Thoughts** Working with a team is a huge boost in development.
+
+### Day 93: June 24, 2018, Sunday
+**Today's Progress**: Created web mockups and wrote MD for challenge.
+**Thoughts** Ideas being pushed.
+
+### Day 94: June 25, 2018, Monday
+**Today's Progress**: React.JS development for communiy challenge.
+**Thoughts** Looks like I have to create UI.
+
+### Day 95: June 26, 2018, Tuesday
+**Today's Progress**: More React.JS development. Learnt how to create states using a form.
+**Thoughts** Finally some good progress with React.JS
+
+### Day 96: June 27, 2018, Wednesday
+**Today's Progress**: Again React.JS and Firebase development.
+**Thoughts** Firebase is interesting, didn't know you can use it for hosting.
+
+### Day 97: June 28, 2018, Thursday
+**Today's Progress**: Slowed down a bit with React.JS
+**Thoughts** Looked back at some parts I missed of React.JS
+
+### Day 98: June 29, 2018, Friday
+**Today's Progress**:
+**Thoughts**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
