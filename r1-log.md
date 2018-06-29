@@ -228,3 +228,75 @@ C# development in 2018 using latest standards.
 
 ### R1D74
 C# development, console apps and Open Cart development.
+
+### R1D75
+Learnt more on C# using var to declare variables.
+
+### R1D76
+Creating links using JavaScript querySelector method.
+
+### R1D77
+Divided into React.JS learning components.
+
+### R1D78
+UWP creating simple apps using VS Studio, looked at Microsoft documentation.
+
+### R1D79
+Learnt and looked at Facebook JavaScript testing environment Jest.
+
+### R1D80
+Open Cart development on the back-end.
+
+### R1D81
+Docker on windows and creating containerised applications.
+
+### R1D82
+Started a GitHub mini.js challenges wih someone from Twitter.
+
+### R1D83
+Worked on Front-end of university website and Open Cart development.
+
+### R1D84
+More development on university site and Open Cart.
+
+### R1D85
+Android development and Open Source contribution to UI www.codeisscience.com
+
+### R1D86
+More development on Android and Open Source project.
+
+### R1D87
+Took it a notch down and worked with generating icons and working with HTML5 SVG
+
+### R1D88
+Worked on Facebook page connected to www.sumat-tech.com, React.JS and Node.Js with Express
+
+### R1D89
+Went back to React.JS develpoment, working with components and states.
+
+### R1D90
+Pushing with React.JS development. Coding on props, proptypes and children.
+
+### R1D91
+Open Cart development and UI for www.bantupo.com
+
+### R1D92
+Build day community challenge ideas put in motion, development environment created.
+
+### R1D93
+Created web mockups and wrote MD for challenge.
+
+### R1D94
+React.JS development for communiy challenge.
+
+### R1D95
+More React.JS development. Learnt how to create states using a form.
+
+### R1D96
+Again React.JS and Firebase development.
+
+### R1D97
+Slowed down a bit with React.JS
+
+### Day 98: June 29, 2018, Friday
+**Thoughts**
