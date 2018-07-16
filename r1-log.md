@@ -298,5 +298,13 @@ Again React.JS and Firebase development.
 ### R1D97
 Slowed down a bit with React.JS
 
-### Day 98: June 29, 2018, Friday
-**Thoughts**
+### R1D98
+Quite some progress I have made
+
+### R1D99
+I'm almost there with my React JS
+
+### R1D100
+Success with React.JS and a wrap up
+
+

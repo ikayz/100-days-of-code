@@ -401,8 +401,18 @@
 **Thoughts** Looked back at some parts I missed of React.JS
 
 ### Day 98: June 29, 2018, Friday
-**Today's Progress**:
-**Thoughts**
+**Today's Progress**: Web development on Open Cart.
+**Thoughts** Quite some progress I have made
+
+### Day 99: June 30, 2018, Friday
+**Today's Progress**: React development.
+**Thoughts** I'm almost there with my React JS
+
+### Day 100: July 2, 2018, Friday
+**Today's Progress**: React wrap up.
+**Thoughts** Success with React.JS
+
+
 
 
 
